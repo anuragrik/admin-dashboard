@@ -222,7 +222,7 @@ body{
 .project-items{
     box-sizing: border-box;
     border-radius: 10px;
-    height: 12rem;
+    height: 14rem;
     padding: 15px;
     border-left: 8px solid #262f35;
     display: grid;
